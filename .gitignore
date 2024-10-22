@@ -1,0 +1,11 @@
+.cph/
+.clang-format
+.vscode
+*.exe 
+*.out
+*.o
+*.txt
+*.pdf
+.kattisrc
+cookies.pkl
+.notes
